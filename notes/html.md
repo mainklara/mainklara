@@ -1,4 +1,3 @@
-<!--
 <!doctype html>
 <html lang="de">
   <head>
@@ -10,4 +9,4 @@
     <p>Seiteninhalt</p>
   </body>
 </html>
--->
+
