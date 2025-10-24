@@ -1,5 +1,5 @@
-# Hi and welcome to my Git!
-# My name is Klara and I'm based in Berlin.
+Hi and welcome to my Git!
+My name is Klara and I'm based in Berlin.
 
 I'm currently...
 ... building a website for a local tailor-shop
