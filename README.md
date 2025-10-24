@@ -1,13 +1,8 @@
-## Hi there 👋
+## Hi and welcome to my Git!
+## My name is Klara and I'm based in Berlin.
 
-I will document my git-journey here!
-
-## 📖 What I'm currently studying:
-- [X] HTML
-- [X] CSS
-- [X] JavaScript
-
-## 📚 My notes
-- [HTML Notizen](./notes/html.md)
-- [CSS Notizen](./notes/css.md)
-- [JavaScript Notizen](./notes/javascript.md)
+## I'm currently...
+... building a website for a local tailor-shop
+... studying html, css and javascript
+... practicing IT & economics for university 
+... working full-time as a IT-specialist in the german industry
